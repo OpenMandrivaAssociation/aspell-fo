@@ -23,7 +23,7 @@ Provides: spell-fo
 BuildRequires: aspell >= %{aspell_ver}
 Requires:      aspell >= %{aspell_ver}
 
-# Mandrake Stuff
+# Mandriva Stuff
 Requires:      locales-%{languagecode}
 Provides:      aspell-dictionary
 
